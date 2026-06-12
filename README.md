@@ -17,43 +17,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:omaralshora1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/omar-abdulaziz-5633a2358/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/PastM3lon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-## 🧠 About Me
-
-```yaml
-name:      Omar El Shoura
-role:      Computer Science Student
-focus:     Cybersecurity & Software Engineering
-location:  Cairo, Egypt
-
-interests:
-  - Systems security and vulnerability research
-  - Low-level programming and memory management
-  - Full-stack web development
-  - Exploring different languages and coding approaches
-
-approach:
-  - Build practical, real-world projects
-  - Understand systems from the ground up
-  - Prefer depth over surface-level familiarity
-
-open_to:
-  - Internship opportunities in software engineering or cybersecurity
-  - Open source collaboration
-  - Research projects in security and systems
-```
 
 ---
 
@@ -204,22 +177,6 @@ Developed to deepen understanding of C++ beyond academics — working with file 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PastM3lon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PastM3lon&theme=tokyo-night&bg_color=1a1b27&color=A855F7&line=7C3AED&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -228,38 +185,13 @@ Developed to deepen understanding of C++ beyond academics — working with file 
 
 ---
 
-## 🎯 Current Focus
-
-```yaml
-learning:
-  - Advanced data structures and algorithm design
-  - Cybersecurity fundamentals and ethical hacking
-  - Backend development with Python and Django
-
-building:
-  - Projects that sharpen systems-level understanding
-  - Tools with practical, real-world utility
-
-exploring:
-  - Low-level memory management in C++
-  - Compiler behavior across different languages
-  - Security patterns in web applications
-
-open_to:
-  - Software engineering internships
-  - Cybersecurity research opportunities
-  - Open source contributions
-```
-
----
-
 ## 🤝 Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:omaralshora1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/omar-abdulaziz-5633a2358/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/PastM3lon">
